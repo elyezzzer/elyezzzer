@@ -1,38 +1,10 @@
 # 👋 Olá, eu sou o Elyezer Moreira
 
 🚀 **Desenvolvedor Full Stack | Laravel & Desenvolvimento Web**  
-🇧🇷 Brasil
 
 Desenvolvo **aplicações web**, **sistemas de gestão** e **soluções voltadas para negócios**, sempre buscando criar projetos organizados, escaláveis e de fácil manutenção.
 
 Sou apaixonado por tecnologia e acredito que a programação é uma ferramenta capaz de transformar problemas do dia a dia em soluções eficientes.
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/elyezzzer">
-    <img src="https://img.shields.io/badge/GitHub-ELYEZERMOREIRA-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/elyezer-moreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-ELYEZER%20MOREIRA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💻 O que eu desenvolvo
-
-- 🌐 Aplicações Web
-- ⚙️ Sistemas utilizando Laravel
-- 📦 Sistemas de gestão e controle de estoque
-- 🗄️ Modelagem e gerenciamento de banco de dados
-- 🔐 Autenticação e controle de acesso
-- 🚀 APIs REST
-- 📊 Soluções voltadas para otimização de processos
-- 🧩 Arquitetura de software e organização de código
 
 ---
 
@@ -63,6 +35,26 @@ Sou apaixonado por tecnologia e acredito que a programação é uma ferramenta c
 
 ---
 
+## 🌐 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyezzzer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyezer-moreira/)
+
+---
+
+## 💻 O que eu desenvolvo
+
+- 🌐 Aplicações Web
+- ⚙️ Sistemas utilizando Laravel
+- 📦 Sistemas de gestão e controle de estoque
+- 🗄️ Modelagem e gerenciamento de banco de dados
+- 🔐 Autenticação e controle de acesso
+- 🚀 APIs REST
+- 📊 Soluções voltadas para otimização de processos
+- 🧩 Arquitetura de software e organização de código
+
+---
+
 ## 📂 Projeto em destaque
 
 ### 📦 Sistema de Gestão de Estoque
@@ -78,15 +70,6 @@ O sistema foi criado para gerenciar o estoque de acessórios e perfis de alumín
 - 🔍 Pesquisa e filtros
 - 🏗️ Arquitetura baseada em Repository e Service
 - 📋 Organização e otimização de processos empresariais
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
