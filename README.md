@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou o Elyezer Moreira
 
-🚀 **Desenvolvedor Full Stack | Laravel & Desenvolvimento Web**  
+🚀 **Desenvolvedor Full Stack | Laravel & Desenvolvimento Web**
+
+Sou formado em **Tecnologia em análise e desenvolvimento de sistemas** pela **Uniguairacá**.
 
 Desenvolvo **aplicações web**, **sistemas de gestão** e **soluções voltadas para negócios**, sempre buscando criar projetos organizados, escaláveis e de fácil manutenção.
 
