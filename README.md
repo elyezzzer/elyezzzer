@@ -61,7 +61,7 @@ Sou apaixonado por tecnologia e acredito que a programação é uma ferramenta c
 
 Projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)** utilizando Laravel.
 
-O sistema foi criado para gerenciar o estoque de acessórios e perfis de alumínio, oferecendo funcionalidades como:
+O sistema foi criado para gerenciar o estoque de acessórios de esquadria de alumínio, oferecendo funcionalidades como:
 
 - 📦 Controle de estoque
 - 📈 Histórico de movimentações
